@@ -1,16 +1,16 @@
-### Hi there 👋
+# WmeLuna
+[![Me](https://avatars.githubusercontent.com/u/46545277?size=340)](https://github.com/WmeLuna)
 
-<!--
-**WmeLuna/WmeLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me:
+I'm a trans developer 🏳️‍⚧️ (she/her)  
+I love being curious with code  
+I love talking to new people (join my discord)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Chat](https://img.shields.io/discord/843946323783057408.svg?color=blueviolet&logo=discord&logoColor=white&style=for-the-badge&label=discord)](https://discord.gg/f9qSnkfPtf) 
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/WmeLuna?color=blueviolet&label=Reddit&logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/WmeLuna)
+[![GitHub followers](https://img.shields.io/github/followers/WmeLuna?color=blueviolet&label=Github%20followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/WmeLuna)
+
+
