@@ -4,7 +4,7 @@
 ---
 
 ### About me:
-I'm a trans developer 🏳️‍⚧️ (she/her)  
+I'm a trans developer (she/her)  
 I love being curious with code  
 I love talking to new people (join my discord)
 ---
