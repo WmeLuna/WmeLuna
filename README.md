@@ -1,5 +1,5 @@
 # WmeLuna
-[![Me](https://wmealtapi.herokuapp.com/api/githubpfp)](https://github.com/WmeLuna)
+[![Me](https://wmealtapi.herokuapp.com/api/githubpfp?)](https://github.com/WmeLuna)
 
 ---
 
